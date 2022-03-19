@@ -1,0 +1,17 @@
+.CODE {
+   background-color: black;
+   color: green;
+   width: 400px;
+   max-height: 4em;
+   overflow: auto;
+}
+.The_first {
+   max-height: 350px;
+   list-style-type: upper-roman;
+   font-weight: bold;
+}
+.The_second {
+   max-height: 350px;
+   list-style-type: lower-roman;
+   font-weight: normal;
+}
